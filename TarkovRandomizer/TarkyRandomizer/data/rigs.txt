@@ -1,0 +1,64 @@
+6B5-16
+True
+6B3TM-01M
+True
+6B5015
+True
+M2
+True
+M1
+True
+AVS
+True
+A18
+True
+TV-110
+True
+Tactec
+True
+AACPC
+True
+Scav vest
+False
+Security vest
+False
+IDEA rig
+False
+Bank Robber
+False
+SOE Micro
+False
+WT rig
+False
+CSA Chest rig
+False
+UMTBS 6sh112
+False
+Tarzan
+False
+D3CRX
+False
+Triton
+False
+Commando
+False
+Thunderbolt
+False
+BSS-MK1
+False
+Umka
+False
+LBT-1961A
+False
+BlackRock
+False
+Mk3
+False
+Alpha
+False
+Azimut
+False
+MPPV
+False
+Belt
+False

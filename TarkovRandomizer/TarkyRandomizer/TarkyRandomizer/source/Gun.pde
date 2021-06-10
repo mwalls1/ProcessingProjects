@@ -1,0 +1,3 @@
+interface Gun{
+  String[] getRandomAmmo();
+}

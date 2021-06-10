@@ -1,0 +1,10 @@
+DT MDR .308
+RFB
+SA-58
+Vepr Hunter
+M1A
+RSASS
+SR-25
+DVL-10
+M700
+T-5000

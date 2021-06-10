@@ -1,0 +1,5 @@
+.45 ACP AP
+.45 ACP FMJ
+.45 ACP Hydra-Shok
+.45 ACP Lasermatch FMJ
+.45 RIP
